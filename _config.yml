@@ -23,7 +23,7 @@ repository               : "israinstrument-droid/israinstrument-droid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Isra Abbasi"
   pronouns         : # example: "she/her"  
   bio              : "Chartered Engineer (CEng) | PMP® | Functional Safety Engineer | Instrumentation & Control | Remote & Autonomous Operations | PETRONAS"
